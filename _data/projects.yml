@@ -14,3 +14,12 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+
+# GitHub SocialNetwork
+- project: social network
+role: full-stack Developer
+duration: 2020 &mdash; Present
+url: https://github.com/IharTsykala/SocialNetwork-client https://github.com/IharTsykala/SocialNetwork-server
+description: social network
+
+
