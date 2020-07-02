@@ -1,18 +1,31 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2020 &mdash; Present
-  url: "https://github.com/IharTsykala/merge-conflicts"
-  description: probot
+# SocialNetwork
+- project: Social Network (2020)
+  role: Developer
+  duration: Febrary 2020 - March 2020
+  url front-end: https://github.com/IharTsykala/SocialNetwork-client
+  url back-end: https://github.com/IharTsykala/SocialNetwork-server
+  description: React-hooks, React-Router, React-Formik, Type-Script, Redux, Redux-saga, Socket-IO Client, axios,
+    Material UI, Materilaze, Grid, Noda, ExpressJS, Mongo, Mongoose, multer, socket.io, bcrypt, cors, jsonwebtoken,
+    fs-extra, hapi/joi
 
-# GitHub SocialNetwork
-- project: social network
+# Awesome Cats (2020)
+- project: Awesome Cats (2020)
   role: full-stack Developer
-  duration: 2020 &mdash; Present
-  url: https://github.com/IharTsykala/SocialNetwork-client https://github.com/IharTsykala/SocialNetwork-server
-  description: social network
+  duration: April 2020
+  url front-end: https://github.com/IharTsykala/amazing-cats
+  url back-end: https://github.com/IharTsykala/server-for-amazing-cats
+  description: TypeScript, React-hooks, Redux-Saga, Material UI, Axios, Noda, ExpressJS
+
+# Countries (2020)
+- project: Awesome Cats (2020)
+  role: Developer
+  duration: April 2020
+  url front-end: https://github.com/IharTsykala/countries
+  description: TS, React-hooks, Redux-Saga, Material UI, Axios, SASS
+
+
 
 
