@@ -1,4 +1,4 @@
-[merge-conflicts](https://ihartsykala.github.io/merge-conflicts/)
+[Resume](https://ihartsykala.github.io/merge-conflicts/)
 
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
